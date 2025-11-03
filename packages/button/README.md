@@ -11,6 +11,7 @@ yarn add @chakra-ui/button
 # or
 
 npm i @chakra-ui/button
+# This is a test comment
 ```
 
 ## Import component
